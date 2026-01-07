@@ -1,4 +1,4 @@
-# Creating New App
+ Creating New App
 
 In this article, we will delve into the process of developing a new application on the Telegram Mini
 Apps platform, we will find out exactly what actions need to be performed to create it, as well as
